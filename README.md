@@ -65,9 +65,6 @@ Unless otherwise stated, percentages are expressed in **percentage points** (0�
 ## How to cite
 Córdova, L., Carriel, V., & Castillo, Y. (2026). Cantonal-Development-Index-for-Ecuador: v1.0.1 – Cantonal Development Index Database- Ecuador (v1.0.0.1). Zenodo. https://doi.org/10.5281/zenodo.18624435
 
-> **Author(s). (Year). Cantonal Development Index - Ecuador (Version). Zenodo. https://doi.org/DOI**
-
-After connecting this GitHub repository to Zenodo, create a GitHub **Release** (e.g., `v1.0.0`) so Zenodo archives that version and assigns a DOI. Replace `DOI` above with the assigned DOI.
 
 ## License
 This dataset is licensed under CC BY 4.0. You must give appropriate credit.
