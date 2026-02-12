@@ -63,7 +63,7 @@ Unless otherwise stated, percentages are expressed in **percentage points** (0�
 ---
 
 ## How to cite
-If you use these data, please cite the dataset DOI (recommended):
+Córdova, L., Carriel, V., & Castillo, Y. (2026). Cantonal-Development-Index-for-Ecuador: v1.0.1 – Cantonal Development Index Database- Ecuador (v1.0.0.1). Zenodo. https://doi.org/10.5281/zenodo.18624435
 
 > **Author(s). (Year). Cantonal Development Index - Ecuador (Version). Zenodo. https://doi.org/DOI**
 
